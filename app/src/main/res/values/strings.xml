@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">FamilyMap</string>
+
+    <string name="host_label">HOST: </string>
+    <string name="port_label">PORT: </string>
+    <string name="userName_label">USERNAME: </string>
+    <string name="password_label">PASSWORD: </string>
+    <string name="firstName_label">FIRST NAME: </string>
+    <string name="lastName_label">LAST NAME: </string>
+    <string name="email_label">EMAIL: </string>
+    <string name="gender_label">GENDER: </string>
+    <string name="male_label">M: </string>
+    <string name="female_label">F: </string>
+
+
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+
+    <string name="search_ic">Search</string>
+    <string name="filter_ic">Filter</string>
+    <string name="settings_ic">Settings</string>
+
+    <string name="story_label">LIFE STORY LINES</string>
+    <string name="tree_label">FAMILY TREE LINES</string>
+    <string name="spouse_label">SPOUSE LINES</string>
+    <string name="map_label">MAP TYPE</string>
+    <string name="resync_label">RE-SYNC DATA</string>
+    <string name="log_out_label">LOG OUT</string>
+    <string-array name="color_list">
+        <item>BLACK</item>
+        <item>RED</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+    </string-array>
+    <string-array name="map_list">
+        <item>NORMAL</item>
+        <item>HYBRID</item>
+        <item>SATELLITE</item>
+        <item>TERRAIN</item>
+    </string-array>
+
+    <string name="search">Search</string>
+
+</resources>
